@@ -11,11 +11,11 @@
     </image>
     <item>
       <title>Test Video from Concurrent</title>
-      <link>http://10.76.133.16/live-spts/EPGC7/transmux/3.m3u8</link>
+      <link>http://10.76.65.200/itcrowd/itcrow.mp4</link>
       <description>Concurrent Video</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/m3u8" width="1280" isDefault="true" url="http://10.76.133.16/live-spts/EPGC7/transmux/3.m3u8">
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://10.76.65.200/itcrowd/itcrow.mp4">
         <media:description>I Love animals</media:description>
         <media:keywords>episode 21, roku recommends, concurrent</media:keywords>
         <media:thumbnail url="http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/media/decbe34b64ea4ca281dc09997d0f23fd/j5_.540x304.jpeg" />
