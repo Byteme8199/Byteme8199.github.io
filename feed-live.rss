@@ -22,5 +22,18 @@
         <media:title>Live Channel</media:title>
       </media:content>
     </item>
+    <item>
+      <title>http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8</title>
+      <link>http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8</link>
+      <description>Live Concurrent Video</description>
+      <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
+      <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/m3u8" width="1280" isDefault="true" url="http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8">
+        <media:description>Live Channel</media:description>
+        <media:keywords>episode 21, roku recommends, concurrent</media:keywords>
+        <media:thumbnail url="http://images.radiotimes.com/namedimage/Raymond_Briggs_s_Bogeyman_takes_an_unexpected_stroll_around_London.jpg?quality=85&mode=crop&width=620&height=374&404=tv&url=/uploads/images/original/95722.jpg" />
+        <media:title>Live Channel</media:title>
+      </media:content>
+    </item>
   </channel>
 </rss>
