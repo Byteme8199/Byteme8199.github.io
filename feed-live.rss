@@ -10,9 +10,9 @@
       <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
     </image>
     <item>
-      <title>http://10.76.112.122/MHawk/live-http/LMS:2054179850/HLSforRyan/index.m3u8</title>
+      <title>Live HTTP</title>
       <link>http://10.76.112.122/MHawk/live-http/LMS:2054179850/HLSforRyan/index.m3u8</link>
-      <description>Live Concurrent Video</description>
+      <description>http://10.76.112.122/MHawk/live-http/LMS:2054179850/HLSforRyan/index.m3u8</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
       <media:content height="1080" type="video/m3u8" width="1920" isDefault="true" url="http://10.76.112.122/MHawk/live-http/LMS:2054179850/HLSforRyan/index.m3u8">
@@ -23,9 +23,9 @@
       </media:content>
     </item>
     <item>
-      <title>http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8</title>
+      <title>Live SPTS</title>
       <link>http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8</link>
-      <description>Live Concurrent Video</description>
+      <description>http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8</description>
       <pubDate>Thu, 11 Jun 2015 17:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
       <media:content height="1080" type="video/m3u8" width="1920" isDefault="true" url="http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8">
