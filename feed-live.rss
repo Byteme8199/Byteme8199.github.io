@@ -11,7 +11,7 @@
     </image>
     <item>
       <title>Live Test Video from Concurrent</title>
-      <link>http://10.76.112.122/MHawk/apple_http/live-spts/EPGC10/transmux/index.m3u8</link>
+      <link>http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8</link>
       <description>Live Concurrent Video</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
