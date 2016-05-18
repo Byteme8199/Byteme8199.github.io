@@ -15,7 +15,7 @@
       <description>Live Concurrent Video</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/m3u8" width="1280" isDefault="true" url="http://10.76.112.122/MHawk/live-http/LMS:2054179850/HLSforRyan/index.m3u8">
+      <media:content channels="2" height="1080" type="video/m3u8" width="1920" isDefault="true" url="http://10.76.112.122/MHawk/live-http/LMS:2054179850/HLSforRyan/index.m3u8">
         <media:description>Live Channel</media:description>
         <media:keywords>episode 21, roku recommends, concurrent</media:keywords>
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
@@ -28,7 +28,7 @@
       <description>Live Concurrent Video</description>
       <pubDate>Thu, 11 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/m3u8" width="1280" isDefault="true" url="http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8">
+      <media:content channels="2" height="1080" type="video/m3u8" width="1920" isDefault="true" url="http://10.76.112.122/MHawk/live-spts/EPGC10/transmux/index.m3u8">
         <media:description>Live Channel</media:description>
         <media:keywords>episode 21, roku recommends, concurrent</media:keywords>
         <media:thumbnail url="http://www.sbcnews.co.uk/wp-content/uploads/2016/01/AmazonTV.png" />
