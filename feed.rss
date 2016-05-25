@@ -23,16 +23,16 @@
       </media:content>
     </item>
     <item>
-      <title>Skyfall 4K</title>
+      <title>Spring_4Ktest</title>
       <link>http://10.75.21.136/dash/Spring_4Ktest.mpd</link>
-      <description>Skyfall 4K</description>
+      <description>Spring_4Ktest</description>
       <pubDate>Thu, 12 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/dash" width="1280" isDefault="true" url="http://10.75.21.136/dash/Spring_4Ktest.mpd">
-        <media:description>Skyfall 4K</media:description>
-        <media:keywords>Skyfall 4K</media:keywords>
+      <media:content url="http://10.75.21.136/dash/Spring_4Ktest.mpd">
+        <media:description>Spring_4Ktest</media:description>
+        <media:keywords>Spring_4Ktest</media:keywords>
         <media:thumbnail url="https://40.media.tumblr.com/9932123baefdddefdbba220ed6b0769e/tumblr_inline_o30ur7nLJm1rzsmkf_540.png" />
-        <media:title>Skyfall 4K</media:title>
+        <media:title>Spring_4Ktest</media:title>
       </media:content>
     </item>
   </channel>
