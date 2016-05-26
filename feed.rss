@@ -26,7 +26,7 @@
       <title>Skyfall 4K</title>
       <link>http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd</link>
       <description>Skyfall 4K</description>
-      <media:content type="video/mpd" url="http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd">
+      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="http://rdmedia.bbc.co.uk/dash/ondemand/bbb/2/client_manifest-common_init.mpd">
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
       </media:content>
     </item>
