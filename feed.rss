@@ -28,7 +28,7 @@
       <description>Testing 4K content from DASH mpd Manifest</description>
       <pubDate>Thu, 12 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
-      <media:content type="video/mp4" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/feelings_vp9-20130806-manifest.mpd">
+      <media:content type="video/ism" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/feelings_vp9-20130806-manifest.mpd">
         <media:description>Spring_4Ktest</media:description>
         <media:keywords>Spring_4Ktest</media:keywords>
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
