@@ -23,10 +23,10 @@
       </media:content>
     </item>
     <item>
-      <title>Google Glass 4K Test</title>
-      <link>http://yt-dash-mse-test.commondatastorage.googleapis.com/media/feelings_vp9-20130806-manifest.mpd</link>
-      <description>Testing 4K content from DASH mpd Manifest</description>
-      <media:content type="video/mp4" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/feelings_vp9-20130806-manifest.mpd">
+      <title>Skyfall 4K</title>
+      <link>http://10.75.21.136/dash/SKYFALL_4K_Ultra_HD.mpd</link>
+      <description>Skyfall 4K</description>
+      <media:content type="video/mp4" url="http://10.75.21.136/dash/SKYFALL_4K_Ultra_HD.mpd">
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
       </media:content>
     </item>
