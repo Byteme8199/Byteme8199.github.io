@@ -23,9 +23,9 @@
       </media:content>
     </item>
     <item>
-      <title>Spring_4Ktest</title>
+      <title>Google Glass 4K Test</title>
       <link>http://yt-dash-mse-test.commondatastorage.googleapis.com/media/feelings_vp9-20130806-manifest.mpd</link>
-      <description>Spring_4Ktest</description>
+      <description>Testing 4K content from DASH mpd Manifest</description>
       <pubDate>Thu, 12 Jun 2015 16:51:07 GMT</pubDate>
       <guid isPermaLink="false">decbe34b64ea4ca281dc09997d0f23fd</guid>
       <media:content type="video/mp4" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/feelings_vp9-20130806-manifest.mpd">
