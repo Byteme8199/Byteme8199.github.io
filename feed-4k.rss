@@ -18,10 +18,10 @@
       </media:content>
     </item>
     <item>
-      <title>BBB Test 4K MKV</title>
-      <link>https://mega.co.nz/#%21wNwAkaYA%21YuTS_JjDM83USVMC7aJfldKyf5f_h9Jcephzrsua2oE</link>
+      <title>HoneyBee MP4</title>
+      <link>http://ultravideo.cs.tut.fi/video/HoneyBee_3840x2160_120fps_420_8bit_HEVC_MP4.mp4</link>
       <description>Test 4K MKV</description>
-      <media:content type="video/mkv" url="https://mega.co.nz/#%21wNwAkaYA%21YuTS_JjDM83USVMC7aJfldKyf5f_h9Jcephzrsua2oE">
+      <media:content type="video/mp4" url="http://ultravideo.cs.tut.fi/video/HoneyBee_3840x2160_120fps_420_8bit_HEVC_MP4.mp4">
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
       </media:content>
     </item>
