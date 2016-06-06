@@ -11,9 +11,9 @@
     </image>
     <item>
       <title>BBB Test 4K Mp4</title>
-      <link>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_normal.mp4</link>
+      <link>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4</link>
       <description>Test 4K Mp4</description>
-      <media:content type="video/mp4" isDefault="true" url="http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_normal.mp4">
+      <media:content type="video/mp4" isDefault="true" url="http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4">
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
       </media:content>
     </item>
