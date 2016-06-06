@@ -10,9 +10,9 @@
       <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
     </image>
     <item>
-      <title>BBB Test 4K Mp4</title>
+      <title>BBB Test 4K MKV</title>
       <link>http://jell.yfish.us/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv</link>
-      <description>Test 4K Mp4</description>
+      <description>Test 4K MKV</description>
       <media:content type="video/mkv" isDefault="true" width="3840" height="2160" url="http://jell.yfish.us/media/jellyfish-140-mbps-4k-uhd-hevc-10bit.mkv">
         <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
       </media:content>
