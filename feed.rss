@@ -12,8 +12,16 @@
     <item>
       <title>BBB Test 1080p Mp4</title>
       <link>http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4</link>
-      <description>Test 4K Mp4</description>
-      <media:content type="video/mp4" isDefault="true" width="1920" height="1080"  url="http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4">
+      <description>BBB Test 1080p Mp4</description>
+      <media:content type="video/mp4" url="http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4">
+        <media:thumbnail url="http://www.alsacreations.com/xmedia/doc/full/big-buck-bunny.jpg" />
+      </media:content>
+    </item>
+    <item>
+      <title>Muse 4K .ts</title>
+      <link>http://demo-uhd3d.com/files/uhd4k/Muse_4K_live_in_Rome.ts</link>
+      <description>Muse 4K Mp4</description>
+      <media:content type="video/hls" url="http://demo-uhd3d.com/files/uhd4k/Muse_4K_live_in_Rome.ts">
         <media:thumbnail url="http://www.alsacreations.com/xmedia/doc/full/big-buck-bunny.jpg" />
       </media:content>
     </item>
@@ -37,7 +45,7 @@
       <title>Test 1080p Mpd</title>
       <link>http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd</link>
       <description>Test 1080p mpd</description>
-      <media:content type="video/mpd" isDefault="true" width="1920" height="1080" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd">
+      <media:content type="video/mpd" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd">
         <media:thumbnail url="http://i2.cdn.turner.com/money/dam/assets/150730102836-google-car-aclima-540x304.jpg" />
       </media:content>
     </item>
