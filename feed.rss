@@ -18,10 +18,10 @@
       </media:content>
     </item>
     <item>
-      <title>Muse 4K .ts</title>
-      <link>http://imaging-resource.com/PRODS/samsung-nx1/FULLRES/yvid_SAM_0235-UHD_Sample1.MP4</link>
-      <description>Muse 4K Mp4</description>
-      <media:content type="video/mp4" url="http://imaging-resource.com/PRODS/samsung-nx1/FULLRES/yvid_SAM_0235-UHD_Sample1.MP4">
+      <title>Another Sample 4K</title>
+      <link>http://www.imaging-resource.com/PRODS/samsung-nx1/FULLRES/yvid_SAM_0230-ProQuality.MP4</link>
+      <description>Another Sample 4K</description>
+      <media:content type="video/mp4" url="http://www.imaging-resource.com/PRODS/samsung-nx1/FULLRES/yvid_SAM_0230-ProQuality.MP4">
         <media:thumbnail url="http://cdn2.alphr.com/sites/alphr/files/styles/16x9_540/public/2016/01/matt_bellamy_drone_league.jpg?itok=pT1Q-3_x" />
       </media:content>
     </item>
