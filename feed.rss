@@ -19,9 +19,9 @@
     </item>
     <item>
       <title>Muse 4K .ts</title>
-      <link>http://demo-uhd3d.com/files/uhd4k/Muse_4K_live_in_Rome.ts</link>
+      <link>http://www.elecard.com/assets/files/other/clips/Elecard_about_Tomsk_part1_HEVC_UHD.mp4</link>
       <description>Muse 4K Mp4</description>
-      <media:content type="video/ts" url="http://demo-uhd3d.com/files/uhd4k/Muse_4K_live_in_Rome.ts">
+      <media:content type="video/mp4" url="http://www.elecard.com/assets/files/other/clips/Elecard_about_Tomsk_part1_HEVC_UHD.mp4">
         <media:thumbnail url="http://cdn2.alphr.com/sites/alphr/files/styles/16x9_540/public/2016/01/matt_bellamy_drone_league.jpg?itok=pT1Q-3_x" />
       </media:content>
     </item>
