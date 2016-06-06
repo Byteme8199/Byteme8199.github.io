@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Roku-Developer-Sample-Feed</title>
+    <link />
+    <description>Concurrent MPD Feed</description>
+    <pubDate>Wed, 11 Nov 2015 20:30:54 GMT</pubDate>
+    <image>
+      <title>Concurrent MPD Feed</title>
+      <url>http://s2.content.video.llnw.net/lovs/images-prod/59021fabe3b645968e382ac726cd6c7b/channel/1cfd09ab38e54f48be8498e0249f5c83/S9O.600x600.png</url>
+    </image>
+    <item>
+      <title>Test 1080p Mpd</title>
+      <link>http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd</link>
+      <description>Test 1080p mpd</description>
+      <media:content type="video/mpd" isDefault="true" width="1920" height="1080" url="http://yt-dash-mse-test.commondatastorage.googleapis.com/media/car-20120827-manifest.mpd">
+        <media:thumbnail url="http://vignette3.wikia.nocookie.net/lego/images/6/63/ArrowDLC-540x304.jpg/revision/latest?cb=20150323031822" />
+      </media:content>
+    </item>
+  </channel>
+</rss>
